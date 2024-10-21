@@ -1,9 +1,9 @@
-Name: Prachi Ravikant Mahalle
-Company: CODETECH IT SOLUTIONS
+Name: Prachi Ravikant Mahalle.
+Company: CODETECH IT SOLUTIONS.
 ID:CT6WDS2072
-Domain: Python Programming
-Duration: October 5th to November 20th 2024
-Mentor: Neela Santosh Kumar
+Domain: Python Programming.
+Duration: October 5th to November 20th 2024.
+Mentor: Neela Santosh Kumar.
 
 Overview of the Project
 
